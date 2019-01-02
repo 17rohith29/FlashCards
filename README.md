@@ -5,8 +5,9 @@ The App is robust against interferences such as device rotation.<br>
 ## Images to Show the Flow of the App in Action
 <h3>1</h3>
 <img src="WelcomeScreen.png" width="150px">
-<p> This is The Welcome Screen of the App <br> on Clicking Add we go to 2</p>
+<p> This is The Welcome Screen of the App <br> on Clicking Add we go to <a href="#2">2</a></p>
 
+<a name="2">
 <h3>2</h3>
 <img src="addTopic.png" width="150px">
 <p> We can add topics here by clicking add, moving onto 3. Cancel Just returns to the welcome page</p>
